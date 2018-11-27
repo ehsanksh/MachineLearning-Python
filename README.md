@@ -1,4 +1,7 @@
 # MachineLearning-Python-SciKit-Learn-
+Training different machine learning algorithms
+
+
 Dependency Libraries
 
     Python 3.6
